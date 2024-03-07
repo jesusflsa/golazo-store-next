@@ -1,0 +1,1263 @@
+[
+  {
+    "name": "USA 84",
+    "price": 279,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/cd23acf75dfd4bf0b797aed001363b6f_9366/usa-84.jpg",
+        "color_prim": "#313033",
+        "color_sec": "#8d8d8a"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d51465237dad4a059b18aed1003f0459_9366/usa-84.jpg",
+        "color_prim": "#353232",
+        "color_sec": "#98928a"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/6dd44e73c9d54ece9584aeae0181be51_9366/usa-84.jpg",
+        "color_prim": "#484a4c",
+        "color_sec": "#8c898a"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/41045d513fe34a8f8063aed300c35569_9366/usa-84.jpg",
+        "color_prim": "#ebebeb",
+        "color_sec": "#908e8c"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ca956e0b09a548f894acaeae01853d48_9366/usa-84.jpg",
+        "color_prim": "#3a3635",
+        "color_sec": "#939996"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a609bb4d386f489795ecaeae017e6c55_9366/usa-84.jpg",
+        "color_prim": "#ebebeb",
+        "color_sec": "#c33942"
+      }
+    ]
+  },
+  {
+    "name": "NY 90",
+    "price": 259,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/36ed6de84993460bafb3ad6e00ee0383_9366/zapatillas-ny-90.jpg",
+        "color_prim": "#3a3c3f",
+        "color_sec": "#95979a"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/feb077086ae94c98aabaaebc01199cab_9366/ny-90.jpg",
+        "color_prim": "#3e3e41",
+        "color_sec": "#959695"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f69df5a436f94eacbf4daebc011ec472_9366/ny-90.jpg",
+        "color_prim": "#76464f",
+        "color_sec": "#a29f9e"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/326b23bb0bec4643b0e0aebc011c6459_9366/ny-90.jpg",
+        "color_prim": "#414949",
+        "color_sec": "#a0a19f"
+      }
+    ]
+  },
+  {
+    "name": "Samba OG",
+    "price": 429,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9b983d5bc09a4d4aba39a8bf011869ba_9366/zapatillas-samba-og.jpg",
+        "color_prim": "#ebebeb",
+        "color_sec": "#939498"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8ae9549e26654512aa180904583de268_9366/zapatillas-samba-og.jpg",
+        "color_prim": "#956d57",
+        "color_sec": "#b4aea1"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ee99b4b9bde74f30a933a8bf011911ae_9366/zapatillas-samba-og.jpg",
+        "color_prim": "#393738",
+        "color_sec": "#8d8f93"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/507b9464089e4c818536b4613435aebf_9366/zapatillas-samba-og.jpg",
+        "color_prim": "#3e3e44",
+        "color_sec": "#8e8d8a"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/80a951792b4149f5b62dafab00f9ca9e_9366/zapatillas-samba-og.jpg",
+        "color_prim": "#4c4c46",
+        "color_sec": "#537d5a"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b6d4987f6f134773aebd0e6179ba05aa_9366/zapatillas-samba-og.jpg",
+        "color_prim": "#ebebeb",
+        "color_sec": "#ae7a5f"
+      }
+    ]
+  },
+  {
+    "name": "Forum Mod Low",
+    "price": 529,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/72c43cc826c443519f6453efe878b71c_9366/zapatillas-forum-mod-low.jpg",
+        "color_prim": "#564543",
+        "color_sec": "#b5ab9c"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c4657813d92b4871a9da885249fdb411_9366/zapatillas-forum-mod-low.jpg",
+        "color_prim": "#73865e",
+        "color_sec": "#bec09e"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c849fdfa6d3d4d54a49d715c52e21297_9366/zapatillas-forum-mod-low.jpg",
+        "color_prim": "#ebeaea",
+        "color_sec": "#d8bb95"
+      }
+    ]
+  },
+  {
+    "name": "Campus 00s",
+    "price": 429,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2345cc874f884fc0a6a8af50010537fb_9366/zapatillas-campus-00s.jpg",
+        "color_prim": "#2a2a2f",
+        "color_sec": "#a68062"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/99efc9c8d694455e99feaed60115183e_9366/zapatillas-campus-00s.jpg",
+        "color_prim": "#ebebea",
+        "color_sec": "#9a9288"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/69105fba851b48be9d7baf7b00b30c66_9366/campus-00s.jpg",
+        "color_prim": "#eaeaea",
+        "color_sec": "#a27e61"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b562097cb5f34542af86af500104b3cc_9366/zapatillas-campus-00s.jpg",
+        "color_prim": "#816b5a",
+        "color_sec": "#81807f"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/db17b9aa742a4517a24daf8800a8bca4_9366/campus-00s.jpg",
+        "color_prim": "#ebebea",
+        "color_sec": "#a07c60"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/70b72e00a7764aa8926daf8800a846b2_9366/campus-00s.jpg",
+        "color_prim": "#b17c41",
+        "color_sec": "#b6a38d"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/01f6daf032fb424086a3d840c0e5a247_9366/campus-00s.jpg",
+        "color_prim": "#ebebea",
+        "color_sec": "#a9a59c"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/40548328904e43c8898e1fc1d014c2c2_9366/tenis-campus-00s.jpg",
+        "color_prim": "#167a51",
+        "color_sec": "#96a8a2"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d0618896716d4b6e9c78fec3796d8cb6_9366/zapatillas-campus-00s.jpg",
+        "color_prim": "#eaeae9",
+        "color_sec": "#938f87"
+      }
+    ]
+  },
+  {
+    "name": "Forum Mid",
+    "price": 449,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/323880509bb648acbda7ac5e003bff27_9366/zapatillas-forum-mid.jpg",
+        "color_prim": "#405ca3",
+        "color_sec": "#8897c1"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/210749af188848e9b3c8ac5e002ad539_9366/zapatillas-forum-mid.jpg",
+        "color_prim": "#adaeaf",
+        "color_sec": "#747476"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f4960ba177b7467791c2acb600279e47_9366/zapatillas-forum-mid.jpg",
+        "color_prim": "#38383a",
+        "color_sec": "#9b9c9f"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/aa0f4bc3ffe04bb5a544ace701322118_9366/zapatillas-forum-mid.jpg",
+        "color_prim": "#ebebeb",
+        "color_sec": "#939495"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1e82a394235d4f73990f25ed60d67d5f_9366/zapatillas-forum-mid.jpg",
+        "color_prim": "#9db4c6",
+        "color_sec": "#566775"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/51c136d054394e17a3774ee762f67092_9366/zapatillas-forum-mid.jpg",
+        "color_prim": "#7e6970",
+        "color_sec": "#bca6af"
+      }
+    ]
+  },
+  {
+    "name": "Superstar Bonega",
+    "price": 429,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/cc54d04175f94c97b486ae7400886d58_9366/zapatillas-superstar-bonega.jpg",
+        "color_prim": "#393838",
+        "color_sec": "#91908e"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5775a433559a49c8902fd09a85bfc904_9366/zapatillas-superstar-bonega.jpg",
+        "color_prim": "#b4a99b",
+        "color_sec": "#74695b"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d9ace2c8d4b242d49fd22bf8cb5b4bda_9366/zapatillas-superstar-bonega.jpg",
+        "color_prim": "#7e7567",
+        "color_sec": "#b1aa9d"
+      }
+    ]
+  },
+  {
+    "name": "Forum Bonega",
+    "price": 449,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/95c3c80eeaf1433eafb2aeaa000e0fa7_9366/zapatillas-forum-bonega.jpg",
+        "color_prim": "#4764a8",
+        "color_sec": "#9fa5b2"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5948c6e976094c0b9be5af4800b59773_9366/zapatillas-forum-bonega.jpg",
+        "color_prim": "#912535",
+        "color_sec": "#9d9595"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/82b6ceaa628c4287acd090c3ece28425_9366/zapatillas-forum-bonega.jpg",
+        "color_prim": "#eaeae9",
+        "color_sec": "#a79e95"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/7f2c613909c2461d8f68af5d014f8d04_9366/zapatillas-forum-bonega.jpg",
+        "color_prim": "#eaeaea",
+        "color_sec": "#93928e"
+      }
+    ]
+  },
+  {
+    "name": "NY 90 W",
+    "price": 259,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1b9dff65bee740de8529aeec0091c760_9366/ny-90-w.jpg",
+        "color_prim": "#5f4f4c",
+        "color_sec": "#9ca09d"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/38efa783dfd648fba74cae6f014f077d_9366/ny-90-w.jpg",
+        "color_prim": "#6d6e6b",
+        "color_sec": "#acadab"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/21756785a9024ee88fa1aeef00df162b_9366/ny-90-w.jpg",
+        "color_prim": "#4a5256",
+        "color_sec": "#959594"
+      }
+    ]
+  },
+  {
+    "name": "Forum Bold Stripes",
+    "price": 429,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/283fc399eff343558353af5601286906_9366/zapatillas-forum-bold-stripes.jpg",
+        "color_prim": "#ebebec",
+        "color_sec": "#8f8e8f"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ccc6511059ad42c2a5edaf5601281155_9366/zapatillas-forum-bold-stripes.jpg",
+        "color_prim": "#67686b",
+        "color_sec": "#9d9da2"
+      }
+    ]
+  },
+  {
+    "name": "Response CL",
+    "price": 599,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/75c0764add974f80821c3fad281efe2f_9366/zapatillas-response-cl.jpg",
+        "color_prim": "#303233",
+        "color_sec": "#929190"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/6368bb2bca4e4332b247cc6eb1b231ae_9366/response-cl.jpg",
+        "color_prim": "#483c39",
+        "color_sec": "#7a625e"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/efa389a59d1b44309a6aadaa00ba0606_9366/zapatillas-response-cl.jpg",
+        "color_prim": "#404042",
+        "color_sec": "#929291"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c115c34e028b4936ad3aafbfb1402132_9366/zapatillas-response-cl.jpg",
+        "color_prim": "#ebebea",
+        "color_sec": "#8e8f8f"
+      }
+    ]
+  },
+  {
+    "name": "Forum Bold",
+    "price": 429,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/6ff94ab59ca343fd9dd44fdc4d342e4f_9366/zapatillas-forum-bold.jpg",
+        "color_prim": "#e9e9ea",
+        "color_sec": "#919392"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/7f80f940f01d4b47b229c5e5b79b2467_9366/zapatillas-forum-bold.jpg",
+        "color_prim": "#797364",
+        "color_sec": "#b4af9f"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8b6745f70ed7410d8f2b6fdb6dec6327_9366/zapatillas-forum-bold.jpg",
+        "color_prim": "#eaeae9",
+        "color_sec": "#9a9895"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/6c0202b99c204f55b5bc91f90bd5aedc_9366/zapatillas-forum-bold.jpg",
+        "color_prim": "#2e2824",
+        "color_sec": "#9a928b"
+      }
+    ]
+  },
+  {
+    "name": "Superstar",
+    "price": 359,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/fca60603e70040989966a39de646fd06_9366/zapatillas-superstar.jpg",
+        "color_prim": "#ebebea",
+        "color_sec": "#928c83"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a3f75b521593410ab6fca1114dba952e_9366/zapatillas-superstar.jpg",
+        "color_prim": "#564c40",
+        "color_sec": "#947b62"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8d3ab16a86e64571b405aad600bad099_9366/zapatillas-superstar.jpg",
+        "color_prim": "#e9eaeb",
+        "color_sec": "#999a9f"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/baae15f199694f1a9b803c1d0097d322_9366/zapatillas-superstar.jpg",
+        "color_prim": "#645852",
+        "color_sec": "#a19d96"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/28cd24876c414700bc8665839fdcb3f1_9366/zapatillas-superstar.jpg",
+        "color_prim": "#35373b",
+        "color_sec": "#929496"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/4c463c1f8b924e00bee2ab820d1139b7_9366/zapatillas-superstar.jpg",
+        "color_prim": "#3a3736",
+        "color_sec": "#94928a"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f112bd38aab24636aa55aae700d35989_9366/zapatillas-superstar.jpg",
+        "color_prim": "#373638",
+        "color_sec": "#8d8e90"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c479676cff004f66a383b8527ec5afed_9366/zapatillas-superstar.jpg",
+        "color_prim": "#474544",
+        "color_sec": "#727275"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5bc8cac6aed9497498705b74f982b276_9366/zapatillas-superstar.jpg",
+        "color_prim": "#a1b7c6",
+        "color_sec": "#707371"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/dcee17c4475548319096af9c0147b13d_9366/zapatillas-superstar.jpg",
+        "color_prim": "#3c3c3d",
+        "color_sec": "#999995"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/14dfb162280a412382a4511d3112c2df_9366/zapatillas-superstar.jpg",
+        "color_prim": "#525643",
+        "color_sec": "#989b8f"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/521712a0751b4290841c6809542ae3b1_9366/zapatillas-superstar.jpg",
+        "color_prim": "#ebecec",
+        "color_sec": "#848a8b"
+      }
+    ]
+  },
+  {
+    "name": "Adi2000",
+    "price": 479,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/de052e62f17c47dbb608afd4013aeac1_9366/zapatillas-adi2000.jpg",
+        "color_prim": "#59483e",
+        "color_sec": "#90765f"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2e2ba12b014044768340afd3011a0c14_9366/zapatillas-adi2000.jpg",
+        "color_prim": "#2d2d2d",
+        "color_sec": "#7f6551"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/6bdcb5a491c547489c28af4600f732ea_9366/zapatillas-adi2000.jpg",
+        "color_prim": "#eaeaeb",
+        "color_sec": "#93949e"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/182d49c5d9c94916a1d1af2a00b70118_9366/zapatillas-adi2000.jpg",
+        "color_prim": "#392a2d",
+        "color_sec": "#962c38"
+      }
+    ]
+  },
+  {
+    "name": "Superstar XLG",
+    "price": 429,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5228cff983764722a60cc7323df95523_9366/zapatillas-superstar-xlg.jpg",
+        "color_prim": "#2f3134",
+        "color_sec": "#939597"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d2c0c7529425492ba5e22de5205f0ac5_9366/zapatillas-superstar-xlg.jpg",
+        "color_prim": "#5b5c57",
+        "color_sec": "#9a9c9c"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b94d8e8f7bae4f069b415e5e9e5413b1_9366/zapatillas-superstar-xlg.jpg",
+        "color_prim": "#353739",
+        "color_sec": "#929596"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/591e26e916234fe3822194061f90c9a4_9366/zapatillas-superstar-xlg.jpg",
+        "color_prim": "#e9eaea",
+        "color_sec": "#979ea6"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c5452bdcc68d419da0518a7c75817aae_9366/zapatillas-superstar-xlg.jpg",
+        "color_prim": "#72828c",
+        "color_sec": "#a4bac7"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/549b1719c0324d09b2d4cb42ef44c638_9366/zapatillas-superstar-xlg.jpg",
+        "color_prim": "#eaeaeb",
+        "color_sec": "#aa9598"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b4bdbcde89eb4bfc8b3a65cf937db9a3_9366/zapatillas-superstar-xlg.jpg",
+        "color_prim": "#5f5064",
+        "color_sec": "#746478"
+      }
+    ]
+  },
+  {
+    "name": "Retropy F2",
+    "price": 379,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f73686bda5d84b9897b479999b740701_9366/zapatillas-retropy-f2.jpg",
+        "color_prim": "#28334c",
+        "color_sec": "#868a8e"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1181e81ab1a44f388e97de2ec9b8e389_9366/zapatillas-retropy-f2.jpg",
+        "color_prim": "#332f39",
+        "color_sec": "#843842"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f3604f0fd32844bc98794ae265199504_9366/zapatillas-retropy-f2.jpg",
+        "color_prim": "#ebebeb",
+        "color_sec": "#ce5d3d"
+      }
+    ]
+  },
+  {
+    "name": "Court Tourino",
+    "price": 329,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c9f94b560aeb4a0aacafacf500cbc49d_9366/zapatillas-court-tourino.jpg",
+        "color_prim": "#707373",
+        "color_sec": "#a8abad"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/03bebf3e4e0c429fb817ae94012723bb_9366/court-tourino.jpg",
+        "color_prim": "#6d5b59",
+        "color_sec": "#a09b99"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d438cc5d392b447394f3ad2000185589_9366/zapatillas-court-tourino.jpg",
+        "color_prim": "#2c2e32",
+        "color_sec": "#8f9192"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/4ae44878adff43128898ad0800d3ed12_9366/zapatillas-court-tourino.jpg",
+        "color_prim": "#626567",
+        "color_sec": "#a0a3a5"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/372cdb8a734a4470aab4ad0c00aa6e83_9366/zapatillas-court-tourino.jpg",
+        "color_prim": "#38393a",
+        "color_sec": "#747474"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c665260773a74706af9cad1f01157af8_9366/zapatillas-court-tourino.jpg",
+        "color_prim": "#353638",
+        "color_sec": "#8d8f91"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/3060a3d8eb76481ab969ad7c009dc823_9366/court-tourino.jpg",
+        "color_prim": "#565656",
+        "color_sec": "#838284"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/6bded8970364459c91faaed600f5ace5_9366/court-tourino.jpg",
+        "color_prim": "#82413f",
+        "color_sec": "#9f7b64"
+      }
+    ]
+  },
+  {
+    "name": "Rivalry Low 86",
+    "price": 449,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c86abc8e510c4dc395751ffea40e9dbd_9366/zapatillas-rivalry-low-86.jpg",
+        "color_prim": "#b5b0a8",
+        "color_sec": "#76736e"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/4cb8210edb4045a5bd8639b4c222faf3_9366/zapatillas-rivalry-low-86.jpg",
+        "color_prim": "#6d6759",
+        "color_sec": "#a7a091"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/fe08782178614ca0bd92afa40181a526_9366/zapatillas-rivalry-low-86.jpg",
+        "color_prim": "#b8b5ac",
+        "color_sec": "#827f77"
+      }
+    ]
+  },
+  {
+    "name": "Rivalry Low",
+    "price": 399,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/74b378dbc42f4464800a5c92d4e525ca_9366/zapatillas-rivalry-low.jpg",
+        "color_prim": "#413f42",
+        "color_sec": "#9e9c98"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/03d1c087c4b24b83bd22af15010bf406_9366/zapatillas-rivalry-low.jpg",
+        "color_prim": "#858585",
+        "color_sec": "#dbdcdc"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/bd01c1b83ae64d1da5cbaf20015ac70d_9366/zapatillas-rivalry-low.jpg",
+        "color_prim": "#404040",
+        "color_sec": "#9c9c9d"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/307314651a2246398285af9c016b69ab_9366/zapatillas-rivalry-low.jpg",
+        "color_prim": "#eaeae9",
+        "color_sec": "#aba7a1"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ba5aa422ee004dc4bcddaf9c0158493c_9366/zapatillas-rivalry-low.jpg",
+        "color_prim": "#eaeae9",
+        "color_sec": "#9da99a"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9f71293086934164bbaa8387d9ef1f37_9366/zapatillas-rivalry-low.jpg",
+        "color_prim": "#eaeae9",
+        "color_sec": "#9e9e9c"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5351262da3d54b7b850fdf98e17b58cb_9366/zapatillas-rivalry-low.jpg",
+        "color_prim": "#857a6b",
+        "color_sec": "#b5aa99"
+      }
+    ]
+  },
+  {
+    "name": "Stan Smith Bonega",
+    "price": 399,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8f3e95fb5e9f44b29306ae740089e64e_9366/zapatillas-stan-smith-bonega.jpg",
+        "color_prim": "#4a6455",
+        "color_sec": "#9a9a98"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/27ea0382de534853adbb587f07977f2e_9366/zapatillas-stan-smith-bonega.jpg",
+        "color_prim": "#7a7774",
+        "color_sec": "#abadac"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/38eec80aa18f46ce9aa42fa6af52e2ea_9366/zapatillas-stan-smith-bonega.jpg",
+        "color_prim": "#eaeaea",
+        "color_sec": "#898a8a"
+      }
+    ]
+  },
+  {
+    "name": "Gazelle Bold",
+    "price": 429,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/3e1baa92e9a646ee8c5d3f2b94ffebe7_9366/zapatillas-gazelle-bold.jpg",
+        "color_prim": "#934a3d",
+        "color_sec": "#aba499"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/dc4640cb690e46e08efd5d6f0c4ccf89_9366/zapatillas-gazelle-bold.jpg",
+        "color_prim": "#a83738",
+        "color_sec": "#af9793"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9a6a98cd0bb54b0e8bf0af460108b18a_9366/zapatillas-gazelle-bold.jpg",
+        "color_prim": "#212226",
+        "color_sec": "#91908e"
+      }
+    ]
+  },
+  {
+    "name": "Forum 84 Low",
+    "price": 479,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/53b83ed78b8345b3bd4bafd2015ec6b9_9366/zapatillas-forum-84-low.jpg",
+        "color_prim": "#898479",
+        "color_sec": "#c7c2b4"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d3c08fb0727b4bfaad02cde219556d05_9366/zapatillas-forum-84-low.jpg",
+        "color_prim": "#988868",
+        "color_sec": "#b6bf9e"
+      }
+    ]
+  },
+  {
+    "name": "Forum Low",
+    "price": 399,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/4dde19a6f34849c9a955af91004ea2af_9366/zapatillas-forum-low.jpg",
+        "color_prim": "#704350",
+        "color_sec": "#a79099"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9fe5d92a78a5441ab0d1afb90019aef2_9366/zapatillas-forum-low.jpg",
+        "color_prim": "#eaeae9",
+        "color_sec": "#a6a49d"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9775786cd7b446af9ddcac5e004a275e_9366/zapatillas-forum-low.jpg",
+        "color_prim": "#3d5aa0",
+        "color_sec": "#8998bf"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ca6eb69651d94083889cacb60018d8bb_9366/zapatillas-forum-low.jpg",
+        "color_prim": "#3c3c3d",
+        "color_sec": "#9f9fa1"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/949a39ad23254477a094ac310128aeb2_9366/zapatillas-forum-low.jpg",
+        "color_prim": "#aaabae",
+        "color_sec": "#bcbcbe"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/975feac58a02416f9510af9f0019495e_9366/zapatillas-forum-low.jpg",
+        "color_prim": "#d2b740",
+        "color_sec": "#c1b58d"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/308d70455df149ee9535afb3000400ab_9366/zapatillas-forum-low.jpg",
+        "color_prim": "#ae1e30",
+        "color_sec": "#a88a6a"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ed1f85799cd94f358717ade9017d5235_9366/zapatillas-forum-low.jpg",
+        "color_prim": "#393737",
+        "color_sec": "#8a8888"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/94e41b12ee5f4f34b5f4d178162a03df_9366/zapatillas-forum-low.jpg",
+        "color_prim": "#ebeaea",
+        "color_sec": "#979898"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/18d0eea4cfa54c3c905aafb9012dda98_9366/zapatillas-forum-low.jpg",
+        "color_prim": "#c2baad",
+        "color_sec": "#64625e"
+      }
+    ]
+  },
+  {
+    "name": "Nizza Platform Mid",
+    "price": 329,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a4921158b08f4d9aa981ab970008db6b_9366/zapatillas-nizza-platform-mid.jpg",
+        "color_prim": "#b4b4b6",
+        "color_sec": "#a1a2a4"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/e534b0caed814f2da8f0ab9601619b1f_9366/zapatillas-nizza-platform-mid.jpg",
+        "color_prim": "#252525",
+        "color_sec": "#939495"
+      }
+    ]
+  },
+  {
+    "name": "OZWEEGO X DISNEY",
+    "price": 529,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/efe68b7c92e84e3ba744b8acdd50017e_9366/ozweego-x-disney.jpg",
+        "color_prim": "#ebeceb",
+        "color_sec": "#8ca299"
+      }
+    ]
+  },
+  {
+    "name": "Stan Smith",
+    "price": 359,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/e095a213d3e34924a49cf5710d9fa41a_9366/zapatillas-stan-smith.jpg",
+        "color_prim": "#44424c",
+        "color_sec": "#9b948f"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/13b8ae6020a644fba45747367921395a_9366/zapatillas-stan-smith.jpg",
+        "color_prim": "#8d806e",
+        "color_sec": "#b9b3a5"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/acb3173f97cb4968985a6b056189720b_9366/zapatillas-stan-smith.jpg",
+        "color_prim": "#5e4c59",
+        "color_sec": "#a399a2"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5fe420aaa5664ed0897c5f51fc573da9_9366/zapatillas-stan-smith.jpg",
+        "color_prim": "#ebebea",
+        "color_sec": "#938f87"
+      }
+    ]
+  },
+  {
+    "name": "Stan Smith Lux",
+    "price": 549,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9cc148fb2ba34533817aed6daab0b048_9366/zapatillas-stan-smith-lux.jpg",
+        "color_prim": "#616161",
+        "color_sec": "#9d9f9c"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/81a92c05be544ed9a5c733abcd7d5b48_9366/zapatillas-stan-smith-lux.jpg",
+        "color_prim": "#283a5a",
+        "color_sec": "#c6bca6"
+      }
+    ]
+  },
+  {
+    "name": "Samba Vegan x Disney Minnie",
+    "price": 349,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8766086da8ac48bcafa9addc00e3d085_9366/zapatillas-samba-vegan-x-disney-minnie.jpg",
+        "color_prim": "#685358",
+        "color_sec": "#9b9a9b"
+      }
+    ]
+  },
+  {
+    "name": "Adi2000 x KSENIASCHANIDER",
+    "price": 479,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d48c70c0034e40d3b5c88081d9d301a9_9366/zapatillas-adi2000-x-kseniaschanider.jpg",
+        "color_prim": "#eaeaea",
+        "color_sec": "#919597"
+      }
+    ]
+  },
+  {
+    "name": "Stan Smith CS",
+    "price": 349,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/e9a578ad4b3e4425a532d1fdefc73f58_9366/zapatillas-stan-smith-cs.jpg",
+        "color_prim": "#ebebec",
+        "color_sec": "#afa091"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/82e9ec1ad9b449878c1baf9c017a3cb1_9366/zapatillas-stan-smith-cs.jpg",
+        "color_prim": "#ebebea",
+        "color_sec": "#8f8e8e"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/623510f0238f4518ae5170bf6425ece5_9366/zapatillas-stan-smith-cs.jpg",
+        "color_prim": "#828b82",
+        "color_sec": "#575b55"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c1bf0ce4ceb64f2ca054af9c017d645f_9366/zapatillas-stan-smith-cs.jpg",
+        "color_prim": "#bcb19b",
+        "color_sec": "#5d564b"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c4e4ad5fae6c4c6aa41c850ae326b564_9366/zapatillas-stan-smith-cs.jpg",
+        "color_prim": "#ebebea",
+        "color_sec": "#bfa78c"
+      }
+    ]
+  },
+  {
+    "name": "Gazelle",
+    "price": 429,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8dc00c6e6ecc4ed682c4a738edd6e9d6_9366/zapatillas-gazelle.jpg",
+        "color_prim": "#ebebeb",
+        "color_sec": "#515047"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/0c7094980df34240877c9f586c088c7a_9366/zapatillas-gazelle.jpg",
+        "color_prim": "#47474b",
+        "color_sec": "#c2383e"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/fe886b4634554209ba4c90c8d0ae5678_9366/zapatillas-gazelle.jpg",
+        "color_prim": "#5d8ba7",
+        "color_sec": "#7aa3b8"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/50e30edadc7b4d5b87f7bc1fe4911178_9366/zapatillas-gazelle.jpg",
+        "color_prim": "#50544b",
+        "color_sec": "#8b6c58"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/771835e62b924e3baf88a03ffe8d4df9_9366/zapatillas-gazelle.jpg",
+        "color_prim": "#51353c",
+        "color_sec": "#79575d"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/18966b78047e4f5cafd8907277f8f979_9366/zapatillas-gazelle.jpg",
+        "color_prim": "#eaebeb",
+        "color_sec": "#dbb42b"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c50ae97bd82e4b2dae2e8473f96ad89b_9366/zapatillas-gazelle.jpg",
+        "color_prim": "#ebecec",
+        "color_sec": "#76625b"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/4c9364eb1521438a8b8ba627009a6a1f_9366/zapatillas-gazelle.jpg",
+        "color_prim": "#5d5d5b",
+        "color_sec": "#9fa0a1"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1456cf05b2f54703bfc3a81700a2dcaa_9366/zapatillas-gazelle.jpg",
+        "color_prim": "#2c2d2d",
+        "color_sec": "#969695"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2584784b10cd409eaed9ece73d84fc17_9366/zapatillas-gazelle.jpg",
+        "color_prim": "#ebecec",
+        "color_sec": "#82a9bc"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1310b912f4d746b6bb2b6618ed8b73e1_9366/zapatillas-gazelle.jpg",
+        "color_prim": "#b9475f",
+        "color_sec": "#af8562"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/466871e2d02642ccae905c7218a54310_9366/zapatillas-gazelle.jpg",
+        "color_prim": "#ac393d",
+        "color_sec": "#46302a"
+      }
+    ]
+  },
+  {
+    "name": "Rivalry 86",
+    "price": 499,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a78bf55e45b64d0bb2fcb0c905073198_9366/zapatillas-rivalry-86.jpg",
+        "color_prim": "#ebebea",
+        "color_sec": "#868f87"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2de889b0f60a4deeb08447eff5f1ab42_9366/zapatillas-rivalry-86.jpg",
+        "color_prim": "#ca8c43",
+        "color_sec": "#ebebeb"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/aee0e34f4c7843bfb3f68d297f549a04_9366/zapatillas-rivalry-86.jpg",
+        "color_prim": "#ebebea",
+        "color_sec": "#9b8489"
+      }
+    ]
+  },
+  {
+    "name": "OZWEEGO",
+    "price": 499,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/7e89de2fba5e490b9321216d35c3e85b_9366/zapatillas-ozweego.jpg",
+        "color_prim": "#ebecec",
+        "color_sec": "#8f9699"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5176a94fbef1406cae596c76bb133da2_9366/zapatillas-ozweego.jpg",
+        "color_prim": "#5b4733",
+        "color_sec": "#9c7f61"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/248eba09509f4afcad34af9c00a622ff_9366/zapatillas-ozweego.jpg",
+        "color_prim": "#5f605c",
+        "color_sec": "#9ea5a0"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ff0f01253e0e47b98faf36282efe0250_9366/zapatillas-ozweego.jpg",
+        "color_prim": "#4b5145",
+        "color_sec": "#959e92"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a280b4cc386f4db795f80ad6c4c1839b_9366/zapatillas-ozweego.jpg",
+        "color_prim": "#eaeaea",
+        "color_sec": "#845b62"
+      }
+    ]
+  },
+  {
+    "name": "Samba ADV",
+    "price": 429,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ba3cdacde1b24624aa82af9c0173eef2_9366/zapatillas-samba-adv.jpg",
+        "color_prim": "#343435",
+        "color_sec": "#9a9a9d"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/78bfd81bbed84b92bc3cacc2011157dd_9366/zapatillas-samba-adv.jpg",
+        "color_prim": "#4d4843",
+        "color_sec": "#999898"
+      }
+    ]
+  },
+  {
+    "name": "Nizza Trek",
+    "price": 379,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/038f98efd68948869a07acc300480492_9366/zapatillas-nizza-trek.jpg",
+        "color_prim": "#7f5f44",
+        "color_sec": "#ae9e8f"
+      }
+    ]
+  },
+  {
+    "name": "Stan Smith Bonega 2B",
+    "price": 429,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/99d7fe017d704501a4f7fafafe132bed_9366/zapatillas-stan-smith-bonega-2b.jpg",
+        "color_prim": "#2b2c36",
+        "color_sec": "#94969b"
+      }
+    ]
+  },
+  {
+    "name": "Forum XLG",
+    "price": 479,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/34668e8eae60469b919fb89a88d7a79d_9366/zapatillas-forum-xlg.jpg",
+        "color_prim": "#8c776a",
+        "color_sec": "#c4ab9d"
+      }
+    ]
+  },
+  {
+    "name": "OZWEEGO OG",
+    "price": 499,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b7076934bdc44d4bbd3f556a41844a2b_9366/zapatillas-ozweego-og.jpg",
+        "color_prim": "#484e4d",
+        "color_sec": "#89998f"
+      }
+    ]
+  },
+  {
+    "name": "RETROPY E5",
+    "price": 499,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b83e260bd70645e9b74a1bd8936b5e7b_9366/retropy-e5.jpg",
+        "color_prim": "#ebebea",
+        "color_sec": "#493d37"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ff793e8965ee44bc91377884de104689_9366/zapatillas-retropy-e5.jpg",
+        "color_prim": "#ebebeb",
+        "color_sec": "#878788"
+      }
+    ]
+  },
+  {
+    "name": "Stan Smith Luxe",
+    "price": 549,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/45a15817e0764c4a83891bb32e607246_9366/zapatillas-stan-smith-luxe.jpg",
+        "color_prim": "#676764",
+        "color_sec": "#9d9e9d"
+      }
+    ]
+  },
+  {
+    "name": "CAMPUS 80s",
+    "price": 349,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a402fe542c91421ca5bd7277e57d9afe_9366/campus-80s.jpg",
+        "color_prim": "#686265",
+        "color_sec": "#9e9597"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8361feb7dea04f96a663521b7d2b11dc_9366/campus-80s.jpg",
+        "color_prim": "#ebebeb",
+        "color_sec": "#7fb8c0"
+      }
+    ]
+  },
+  {
+    "name": "Gazelle Indoor",
+    "price": 499,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9d4207f66a7748fd8c94dd2d8b0dd61f_9366/zapatillas-gazelle-indoor.jpg",
+        "color_prim": "#34574f",
+        "color_sec": "#966551"
+      }
+    ]
+  },
+  {
+    "name": "Gazelle 85",
+    "price": 499,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f68cfc359d1c4ffebe74aef600fc772d_9366/zapatillas-gazelle-85.jpg",
+        "color_prim": "#a74f40",
+        "color_sec": "#b69f9b"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/94a7f88d24564f3dab98af5d010715b2_9366/zapatillas-gazelle-85.jpg",
+        "color_prim": "#bf785c",
+        "color_sec": "#c79885"
+      }
+    ]
+  },
+  {
+    "name": "Superstar x KSENIASCHANIDER",
+    "price": 399,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/7d2e81e108994b25a7e30e5d8410d3bd_9366/zapatillas-superstar-x-kseniaschanider.jpg",
+        "color_prim": "#46595f",
+        "color_sec": "#a2856a"
+      }
+    ]
+  },
+  {
+    "name": "Forum Low CL",
+    "price": 429,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9d0caa91b40441be81a9afb30007855f_9366/zapatillas-forum-low-cl.jpg",
+        "color_prim": "#ebebea",
+        "color_sec": "#b1a28a"
+      }
+    ]
+  },
+  {
+    "name": "Forum 84 High",
+    "price": 529,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/bf499a46f31549a6a213afc7000d54a2_9366/zapatillas-forum-84-high.jpg",
+        "color_prim": "#603f43",
+        "color_sec": "#a89f98"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/bd0d8a58070242c1af149e5f1bcfc11d_9366/zapatillas-forum-84-high.jpg",
+        "color_prim": "#3a3a5c",
+        "color_sec": "#e06c34"
+      },
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/7c647ba2ea134d94a9eaafc60133a715_9366/zapatillas-forum-84-high.jpg",
+        "color_prim": "#ceae52",
+        "color_sec": "#c1b591"
+      }
+    ]
+  },
+  {
+    "name": "RESPONSE CL W",
+    "price": 599,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/195db106e954422085dff1ca83bc360f_9366/response-cl-w.jpg",
+        "color_prim": "#4d5750",
+        "color_sec": "#828d82"
+      }
+    ]
+  },
+  {
+    "name": "Nizza Plataforma",
+    "price": 329,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/82dde22969f345e5aaa9abeb000f2e3d_9366/zapatillas-nizza-plataforma.jpg",
+        "color_prim": "#b8b7b9",
+        "color_sec": "#7d7c7e"
+      }
+    ]
+  },
+  {
+    "name": "Campus 800s",
+    "price": 429,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/39ded8182fd346c8998faf5600f5ca54_9366/zapatillas-campus-800s.jpg",
+        "color_prim": "#ebebea",
+        "color_sec": "#91775f"
+      }
+    ]
+  },
+  {
+    "name": "Superstar PRIDE RM",
+    "price": 399,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/13e1b721c6f9404da7aaaf6801654dec_9366/zapatillas-superstar-pride-rm.jpg",
+        "color_prim": "#ac826a",
+        "color_sec": "#bdb9aa"
+      }
+    ]
+  },
+  {
+    "name": "STAN SMITH W",
+    "price": 399,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/951b768ce54a49a7b8892661423d7efb_9366/stan-smith-w.jpg",
+        "color_prim": "#1f5271",
+        "color_sec": "#939591"
+      }
+    ]
+  },
+  {
+    "name": "Nizza Platform",
+    "price": 359,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f381630647ad46cfabcaddfb242af85b_9366/zapatillas-nizza-platform.jpg",
+        "color_prim": "#eaeaea",
+        "color_sec": "#835c6b"
+      }
+    ]
+  },
+  {
+    "name": "Superstar 82",
+    "price": 579,
+    "brand": "Adidas",
+    "variants": [
+      {
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c1e8d04a9f1345ae924baf9c00c6e494_9366/zapatillas-superstar-82.jpg",
+        "color_prim": "#625b4f",
+        "color_sec": "#c8bda5"
+      }
+    ]
+  }
+]

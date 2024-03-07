@@ -28,16 +28,13 @@ body {
   background: rgb(var(--background-solid));
 }
 
-.social-buttons {
-  & svg {
-    width: 100%;
-    height: 100%;
-  }
-  
-  & button {
-    height: 24px;
-    width: 24px;
-  }
+.social-buttons svg {
+  width: 100%;
+  height: 100%;
+}
+.social-buttons button {
+  height: 24px;
+  width: 24px;
 }
 
 input[type="search"]::-webkit-search-cancel-button {
